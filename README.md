@@ -4,11 +4,11 @@ Welcome to the Share Prompts - Next.js repository! This repository contains the 
 
 ## Table of Contents
 
-- [Description](#description)\
-- [Features](#features)\
-- [Installation](#installation)\
-- [Usage](#usage)\
-- [Contributing](#contributing)\
+- [Description](#description)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
 - [License](#license)
 
 ## Description
@@ -32,25 +32,25 @@ To run Share Prompts locally, follow these steps:
 
 1\. Clone the repository:
 
-   ```shell\
+   ```
    git clone https://github.com/DimitarMitev92/share_prompts.git\
    ```
 
 2\. Navigate to the project directory:
 
-   ```shell\
+   ```
    cd share_prompts\
    ```
 
 3\. Install the required dependencies:
 
-   ```shell\
+   ```
    npm install\
    ```
 
 4\. Start the development server:
 
-   ```shell\
+   ```
    npm run dev\
    ```
 
