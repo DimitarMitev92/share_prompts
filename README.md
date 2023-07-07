@@ -19,11 +19,11 @@ Share Prompts is a web application that aims to inspire and encourage creative w
 
 The Share Prompts application offers the following features:
 
-- **Prompt Sharing**: Users can share writing prompts to inspire others and encourage creative writing.\
-- **Writing Exercises**: Users can participate in writing exercises based on shared prompts.\
-- **User Authentication**: Registered users can log in and track their participation in exercises.\
-- **Community Engagement**: Users can comment on prompts and exercises to engage with the writing community.\
-- **Server-Side Rendering**: The application utilizes Next.js for server-side rendering, providing optimized performance and SEO benefits.\
+- **Prompt Sharing**: Users can share writing prompts to inspire others and encourage creative writing.
+- **Writing Exercises**: Users can participate in writing exercises based on shared prompts.
+- **User Authentication**: Registered users can log in and track their participation in exercises.
+- **Community Engagement**: Users can comment on prompts and exercises to engage with the writing community.
+- **Server-Side Rendering**: The application utilizes Next.js for server-side rendering, providing optimized performance and SEO benefits.
 - **Efficient Client-Side Navigation**: Next.js enables seamless client-side transitions for a smooth browsing experience.
 
 ## Installation
@@ -33,25 +33,25 @@ To run Share Prompts locally, follow these steps:
 1\. Clone the repository:
 
    ```
-   git clone https://github.com/DimitarMitev92/share_prompts.git\
+   git clone https://github.com/DimitarMitev92/share_prompts.git
    ```
 
 2\. Navigate to the project directory:
 
    ```
-   cd share_prompts\
+   cd share_prompts
    ```
 
 3\. Install the required dependencies:
 
    ```
-   npm install\
+   npm install
    ```
 
 4\. Start the development server:
 
    ```
-   npm run dev\
+   npm run dev
    ```
 
 That's it! The Share Prompts application should now be running on your local machine.
